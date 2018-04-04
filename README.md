@@ -2,6 +2,8 @@
 
 Welcome to our Server!
 
+sootsplash.csci2461.com
+
 Since our classes can have shared access to this server host. Thought we should have some documentation to facilitate this colab.
 
 ## Ports
