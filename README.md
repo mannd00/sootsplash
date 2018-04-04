@@ -1,1 +1,11 @@
-# sootsplash
+# SootSplash
+
+Welcome to our Server!
+
+Since our classes can have shared access to this server host. Thought we should have some documentation to facilitate this colab.
+
+## Ports
+
+Please lets everyone know what ports you will be using eg. if multiple groups are using port 80 for web host, gonna have a bad time. Use a non-standard port.
+Or get your own host!
+
